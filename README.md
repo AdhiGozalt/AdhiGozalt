@@ -10,8 +10,6 @@ exploratory data analysis, visualization, and machine learning.
 
 ---
 
-## Skills
-
 **Data Analysis**
 - Python
 - Pandas
