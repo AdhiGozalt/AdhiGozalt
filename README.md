@@ -68,4 +68,4 @@ revenue trends, and business metrics.
 
 ## Connect With Me
 
-[LinkedIn](www.linkedin.com/in/adhigozalt) • [Email](muhammadadhigozalt02@gmail.com)
+[LinkedIn](#www.linkedin.com/in/adhigozalt) • [Email](#muhammadadhigozalt02@gmail.com)
