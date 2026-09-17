@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Adhi Gozalt
+# Muhammad Adhi Gozalt
 
 ### Data Analyst | Data Science | Cybersecurity Analytics
 
