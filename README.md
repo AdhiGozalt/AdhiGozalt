@@ -65,7 +65,6 @@ revenue trends, and business metrics.
 - Power BI
 
 ---
-
 ## Connect With Me
 
-[LinkedIn](#www.linkedin.com/in/adhigozalt) • [Email](#muhammadadhigozalt02@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-adhi-gozalt/) • [Email](mailto:muhammadadhigozalt02@gmail.com)
